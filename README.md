@@ -163,3 +163,29 @@ Sistema de Notificação em Vigilância Sanitária
 * Cidadãos - Pacientes, familiares, acompanhantes, cuidadores e outros
 
 CIAT - Centro Integrado de Atenção ao trabalhador.
+
+### NOTIVISA
+
+Objetivo: O Notivisa é um sistema informatizado desenvolvido pela Anvisa para receber notificações de incidents, eventos adversos (EA) e queixas técnicas (QT) relacionadas ao uso de produtos e de servições sob vigilância sanitária.
+
+#### Incidente / Evento Adverso
+* EA nas atividades admnistrativas.
+* Infecões.
+* Falhas no cuidado do pacitente.
+* EA nas dieatas
+* Queda do paciente
+...
+#### Queixas tecnicas - qnd não houve dano ao paciente
+* Desvio de Qualidade
+* Produto falsificado.
+* Produto sem Registo.
+* Empresa sem AFE.
+
+## Aula 14
+Segurança no Ambiente Hospitalar Normas
+
+- [ ] **Portaria 1660 de 2009**: Notivisa, VIGIPOS,  SNVS, como parte do SUS.
+- [ ] **Portaria 529 de 2013**: PNSP - programa nacional de segurança do paciente.
+- [ ] **RDC 36 de 2013**: Segurança do paciente
+- [ ] **RDC53 de 2013**: Altera a rdc36
+- [ ] **RDC16 de 2013**: Boas praticas para fabricação de prods.
