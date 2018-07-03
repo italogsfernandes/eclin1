@@ -323,7 +323,35 @@ Esta Norma específica um processo pelo qual o fabricante de um produto para a s
 * **Avaliação de Risco**: Consiste na verificação da necessidade ou não da redução de risco.
 
 * estimativa de risco
+    * o evento de iniciação ou circunstância
+    * a sequencia de eventos que poderiam levar a situação perigosas
+    * probabilidade de ocorrerem tais situações
+    * probabilidade da situação causar dano
+    *  a natureza do dano
 
 * estimativa de probabiidade
     * dados disponiveis caracterização quantitativa
     * dados não disponiveis caracteziação qualitativa
+
+* Controle de riscos:
+[riscos associados a]
+    * processo
+    * produto
+    * armazenamento e distribuição
+    * instaçaão e qualificação
+    * utilização final do protudo
+
+riscos associados ao controle de risco.
+
+* Analise qualitativa. Exemplos:
+    * Severidade
+        * Relevante: compromentimento reversivel
+        * Irrelevante: sem compromentimento
+        * Muito relevante: morte ou irreversivel
+    * Probabiliade
+        * Alta
+        * Media
+        * Baixa
+
+**Matriz de efeito qualitativo**
+![](img/fig4.png)
