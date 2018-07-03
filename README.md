@@ -50,3 +50,12 @@ Investigação de ocorrências como Ferramenta da Qualidade dos serviços de Sa�
 1. **Hemo** vigilância.
 1. Gestão de Resíduos. **(GRH)**
 1. Controle de **Infecção** Hospitalar.
+
+### Algumas definições
+
+* EA - **Eventos Adversos**: Efeito não desejado, em humanos, decorrente do uso de produtos sob vigilância sanitária.
+* QT - **Queixas Técnicas**: Notificação de suspeita de alteração/irregularidade de um produto/empresa relacionada a aspectos técnicos ou legais, e que poderá ou não causar dano à saúde individual e coletiva.
+
+### Segundo site da ANVISA
+
+* Tecnovigilância <s>é o sistema de vigilância de</s> eventos adversos e queixas técnicas <s>para a saúde na fase de</s>  pós-comercialização, <s>com vistas a recomendar a adoção de medidas que garantam a proteção e a promoção da sáude da população. A tecnovigilância visa a segurança saniátia de protudos para saúde pós-comercialização </s>(Equipamentos, MAteriais, Artigos Médico-Hospitalares, Implantes e Produtos para Diagnóstico de Uso "in-vitro").
