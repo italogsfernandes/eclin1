@@ -242,3 +242,27 @@ Portaria 2616/98 -> revogou a 930/92
 * Qualidade do ar -> *pode exercer uma influencia direta e de grande significancia na velocidade de recuperação dos pacientes e na frequência de ocorrência de infecções hospitalares*
 
 * portaria 3523/98 -> Medidas básicas referentes Á manutenção dos sistemas de climatização para garantir a "Qualidade do Ar de Interiores" e prevenção de riscos á saúde dos ocupantes de ambientes climatizados.
+
+VMR -> Valores maximos recomendados
+
+* **Res 9/03**
+    * Estabelece padrões de ref para qual. do ar interior, em ambientes climatizados artificialmente, de uso publico e coletivo.
+    * Vmr p/ contaminção microbiológica dioxido de carbono, alem dos parametros fisicos de temperatura, umidae, velocidade, taxa de renovação e grau de pureza do ar.
+
+## Aula 16
+
+NRs -> Regulamentam e fornecem orientações sobre procedimentos obrigatórios em relação a medicina e segurança do trabalho.
+Existem ate a 36.
+
+NR32 -> Segurança e sapude no trabalho em estabelecimentos de saúde.
+NR17 -> Ergonomia
+NR9 -> Prevenção de Riscos Ambientais
+
+## Aula 17
+ABNT NBR ISO 14971
+
+gerenciar riscos associados coma  utilização de produtos para a saúde
+
+**Esta Norma trata de processos para gerenciar riscos, primariamente para o paciente, mas também para o operador, outras pessoas, outros equipamentos e o ambiente.**
+
+Gerenciamento de risco é um assunto complexo, pois cada parte interessada estabelece valores diferentes para a probabilidade do dano ocorrer e sua severidade.
