@@ -355,3 +355,19 @@ riscos associados ao controle de risco.
 
 **Matriz de efeito qualitativo**
 ![](img/fig4.png)
+
+* Analise quantitativa
+* Severidade
+    * 100% obito
+    * 100% invalidez, 50% obto
+    * invalidez
+    * lesaõ em 100% mas sem invalidez
+    * lesão leve
+    * desconforto
+* probabilidade
+    * p > 10e-3
+    * p > 10e-4
+    * p > 10e-5
+    * ...
+
+    ![](img/fig5.png)
