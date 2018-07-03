@@ -155,4 +155,11 @@ Sistema de Notificação em Vigilância Sanitária
 
 ### Quem faz as notificações:
 * Profissionais de servicoes de saude (núcleos de segurança do paciente, hospitais, clinicas, hemocentos, laboratorios, CIAT's, dentre outros)
-* Profissionais/técnicos da Anvisam das Vigilâncias Sanitaria Estatuais e municiapais, das secretarias estaduais e minicipais de saude
+* Profissionais/técnicos da Anvisam das Vigilâncias Sanitaria Estatuais e municiapais, das secretarias estaduais e minicipais de saude.
+* Profissionais de Laboratorios de Saude publica, universidades/centros de pesquisa.
+* Profissionais que atuam em drogarias e farmacias.
+* Profissionais das empresas detentoras de registro de produtos sob vigilancia sanitaria (fabricantes, importadoress e distribuidores)
+* Profissionais de saude liberais
+* Cidadãos - Pacientes, familiares, acompanhantes, cuidadores e outros
+
+CIAT - Centro Integrado de Atenção ao trabalhador.
