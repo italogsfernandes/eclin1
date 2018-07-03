@@ -1,4 +1,4 @@
-#Lista de Normas para a P2
+# Lista de Normas para a P2
 
 ## Aulas 12 - Riscos
 - [X] <s>RDC2 de 2010</s> (Geren. de tec. em EAS) - **RDC20 de 2012**
