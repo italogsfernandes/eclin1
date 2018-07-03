@@ -479,4 +479,5 @@ RDC050 -> Dispoe sobre o regulamento tecnico para planejamento programação, el
 
 RDC 307 -> Altera a RDC 50.Regulamento tecnico para planejaento, prog, e elaboração de proj fisico para EAS.
 
-RDC 189 -> Li a mesma coisa da outra ue. SNVS
+RDC 189 ->  Li a mesma coisa da outra ue. SNVS
+Dispoe sobre a regulamentação dos procedimentos de analise, avaliação e aprovação dos projetos fisicos de estabelicimentos de saude no Sistema Nacional de Vigilancia Sanitaria, altera o REgulamento TEcno aprovado pela RDC n50 e da outras providencias.
