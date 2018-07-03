@@ -1,4 +1,5 @@
 # Eclin1
+Notas de aulas sobre os slides 11 ao 18 de eclin1.
 
 ## Aula 11
 Segurança no Ambiente Hospitalar - Riscos nos EAS
@@ -16,4 +17,11 @@ Entende-se "risco" como possibilidade de "algo não dar certo"
 
 * Risco: É a probabilidade de ocorrencia de uma doença ...xablaus...relacionada à saúde em uma população durante um determinado período.
 
-    * **Probabilidade** de um evento perigoso: Condições de uma variável com potencial necessário para causar danos (lesões, danos a equipamentos, instalações, meio ambiente, perda de material)
+    * **Probabilidade** de um evento perigoso: Condições de uma variável com potencial necessário para causar danos (lesões, danos a equipamentos, instalações, meio ambiente, perda de material).
+
+    * **Severidade** da consequência do evento perigoso.
+
+###  Gestão de Riscos
+
+* Processo por meio do qual as organizaçõs lidam com o risco associado à sua atividade.
+* Medidas de prevenção que devem ser adotadas, para **eliminar**, **prevenir** ou **minimizar** um ou vários pontos críticos ou de risco.
