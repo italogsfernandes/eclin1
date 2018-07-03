@@ -215,3 +215,14 @@ obtidas do organismo humano.
 
 ## Aula 15
 Infecção Hospitalar
+
+* Programa de Controle de infecção Hospitalar começou em 1983.
+
+Portaria MS 196/83
+* **CCIH**: Comissões de Controle de Infecção Hospitalar.
+    * Vigilânia epidemiológica com coleta de dados, a notificação feita pelo médico ou enfermeira, elaboração de normas técnicas, isolamento de pacientes, controle do uso de antimicrobioanos, normas de seleção de germicidas e preenchimento de relatórios.
+
+Portaria 930/92 - revoga a 196/83
+
+* **SCIH**: Servições de Controle de Infecção Hospitalar.
+    * Execução das ações programadas de contr. d. infec. hosp.
