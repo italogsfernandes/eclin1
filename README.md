@@ -371,3 +371,34 @@ riscos associados ao controle de risco.
     * ...
 
     ![](img/fig5.png)
+
+## Controle de risco
+
+Adoção de medidas que sejam apropriadas para a redução de riscos em um nivel aceitavel.
+
+* Objetivos:
+    * reduzir Severidade
+    * reduzir propabilidade
+* foco:
+    * segurança inerente ao projeto
+    * medidas de proteção no próprio produto ou no processo de produção
+    * informações para segurança.
+
+* exemplos de medidas:
+    * desigamento automatico, valvula de segurança.
+    * Alertas e alarmes visuais, acusticos.
+
+* exemplos de informações:
+    * colocação de advertencia
+    * restrição de utilização
+    * comunicaçãod e uso improprio
+    * uso de EPI.
+
+* **Avaliação da aceitabilidade de risco residual geral**:
+    * se for considerado inaceitavel (de acordo com o planode gerenciamento de risco) -> reuniar e analisar criticamente a literatura, comparar bneficios com risco.
+
+* **relatório de gerenciamento de risco**: To cansado neste momento. vou so escrever este titulo.
+
+* **Informaçoes de produção e pos produção**: fabricante deve: estabelecer, documentar e manter.
+
+## Aula 18
