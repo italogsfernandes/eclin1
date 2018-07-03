@@ -419,3 +419,44 @@ O processo do projeto arquitetônico de uma edificação hospitalar é uma taref
     * Desenvolver os projetos nas normas.
     * Minimizar infecção hospitalar.
     * buscar harmonia e humanização.
+
+
+* Edificios hospitalares reunem:
+    * Administração
+    * Ambulatório
+    * Diagnósitico
+    * Tratamento
+    * Pronto atendimento
+    * internação
+    * serviços de apoio
+    * serviços gerais
+    * circulações intersetoriais
+
+* Divisão do ponto de vista de custos
+    * espacos
+    * Equipamentos
+
+* Os custos dependem da dimensão (comprimento, pé direito, largura, número de pavimentos)
+
+
+* Divisão do ponto de vista topológico
+    * Horizontais
+    * Verticais
+
+*  Custos construção:
+    * 60% parte civíl (espaços)
+    * 40% instalações
+
+* Custos manutenção
+    * 70% instalações
+    * 30% parte civil
+
+* Parte civil -> minimizar o custo de construção
+    * Não preocupar demais com vida util de revestimento, piso, tinta, materiais
+
+* Parte manutenção -> minimizar o custo de manutenção.
+    * Procurar equipamentos que apresentem menor probabilidade de falha (mesmo qeu + caro)
+
+ * Redução odo custo de planos Verticais
+    * Tijolo -> melhor Qualidade
+    * Revestimento -> meia pared substituição por impermeavel
