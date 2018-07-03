@@ -27,5 +27,26 @@ Entende-se "risco" como possibilidade de "algo não dar certo"
 * Medidas de prevenção que devem ser adotadas, para **eliminar**, **prevenir** ou **minimizar** um ou vários pontos críticos ou de risco.
 
 * **PROBLEMA**:
-    * **Super**estimar o risco.
-    * **Sub**estimar o risco.
+    * **Super** estimar o risco.
+    * **Sub** estimar o risco.
+
+###  No EAS
+
+```
+Investigação de ocorrências como Ferramenta da Qualidade dos serviços de Saúde
+```
+* Impulsiona **mudança cultural** institucional e proficional.
+* Incentiva atitudes **não punitivas**.
+* Possibilita **correção** dos pontos **vulneráveis** do sistema.
+* Permite **prevenção** de falhas.
+* Garante **maior segurança** a pacientes e prestadores de serviço.
+
+![](img/fig1.png)
+
+### 5 Pilares
+
+1. **Farmaco** vigilância.
+1. **Tecno** vigilância.
+1. **Hemo** vigilância.
+1. Gestão de Resíduos. **(GRH)**
+1. Controle de **Infecção** Hospitalar.
