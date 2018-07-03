@@ -25,3 +25,7 @@ Entende-se "risco" como possibilidade de "algo não dar certo"
 
 * Processo por meio do qual as organizaçõs lidam com o risco associado à sua atividade.
 * Medidas de prevenção que devem ser adotadas, para **eliminar**, **prevenir** ou **minimizar** um ou vários pontos críticos ou de risco.
+
+* **PROBLEMA**:
+    * **Super**estimar o risco.
+    * **Sub**estimar o risco.
