@@ -100,3 +100,23 @@ A **VIGIPÓS** deve ser capaz de detectar precocemente problemas relacionados a 
 
 
 A **VIGIPÓS** deve produzir informações que permitem retroalimentar os sistemas de controle e orientar os cidações e profissionais de saúde para a prevenção de riscos.
+
+### Rede Sentinela
+A rede sentinela funciona como observatório
+
+no âmbito dos servições para o gerenciamento de riscos Á saúde, em atuação conjunta e efetiva com o
+SNVS (**Sistema Nacional de Vigilância Sanitária**). Foi instituída ma *Gerência de Risco* em cada serviçp que compõe a rede, que representa a referência interna da Vigipós nas instituições.
+
+**Os servições** que compões a Rede notificam e monitoram eventos adversos e queixas tecnicas de produtos sob vigilância sanitária (medicamentos, vacinas e imunoglobulinas,  pesquisas clinicas, cosmeticos, produtos de higiene pessoal ou perfume, artigos e quipamentos medico-hospitalares, git reagente para diagnostico in viro, uso de sangue ou componentes, saneamento e agrotoxicos) em uso no Brasil, fazendo a vigipos dos produtos utilizados nos estabelecimentos de saúde.
+
+As suspeitas de eventos adversos e queijas tecnicas são monitorados e investigados juntamente com a Vigilancia Sanitaria. A conclusão dessas insvertigaçõs pode resultar em diversas decisões como a retirada do protudo do mercado, a restrição de uso e de comercialização entre outras intervenções.
+
+### Como participar da rede sentinela
+Perfis:
+* Participantes: Existencia e funcionamento da gerencia de risco, com alimentação regular dos bancos de dados da vigipos. E o perfil de entrada ma rede sentinela, obrigatorio para permanencia na mesma.
+
+* Colaborador: Capacidade para desenvolvimento de estudos de interesse no sistema de saude brasileiro
+
+* Centro de cooperação: Cooperação horizontal para atvdades de formação pessoal e educação continuada e outras institu de saude ou capacid p/  desenvol. de material institucional.
+
+* Centro de referência: Coordenação e ou supervisão de sub-redes com foco em temas ou tecnologias específicas.
