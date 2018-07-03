@@ -120,3 +120,25 @@ Perfis:
 * Centro de cooperação: Cooperação horizontal para atvdades de formação pessoal e educação continuada e outras institu de saude ou capacid p/  desenvol. de material institucional.
 
 * Centro de referência: Coordenação e ou supervisão de sub-redes com foco em temas ou tecnologias específicas.
+
+### Infos sobre Sentinela
+
+Antes: **Total do brasil**: 193 servições da rede sentinela
+Agora: **Total do brasil**: 232 servições da rede sentinela
+
+A UFU ta nela
+
+### NOTIVISA
+Sistema de Notificação em Vigilância Sanitária
+
+* **Objetivo** --> O notivisa é um sistema informatizado desenvolvido pela Anvisa para receber notificação de incidentes, eventos adversos (ES) e queixas técnicas (QT) relacionadas ao uso de produtos e de servições sob vigilÂncia sanitária.
+
+![](img/fig2.png)
+
+### Exemplos de notificações
+
+* Incidente / evento adverso durante procedimento cirurgico
+* Queda do pacientes
+* Ulcera por pressao (mto tempo deitado)
+* Inefetificada terapeutica de algum medicamento
+* Erros de medicação apenas qnd houver dano a saude (pos exemplo edema provocado por ma administa de injetavel)
