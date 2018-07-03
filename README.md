@@ -1,7 +1,7 @@
 # Eclin1
 Notas de aulas sobre os slides 11 ao 18 de eclin1.
 
-Caso esteja procurando a lista de normas clique [aqui](/normas).
+Caso esteja procurando a lista de normas clique [aqui](normas).
 
 ## Aula 11
 Segurança no Ambiente Hospitalar - Riscos nos EAS
@@ -67,11 +67,11 @@ Continuando sobre riscos
 
 ### Normas
 
-[X] <s>RDC2 de 2010</s> (Geren. de tec. em EAS) - **RDC20 de 2012**
+- [X] <s>RDC2 de 2010</s> (Geren. de tec. em EAS) - **RDC20 de 2012**
 
-[X] **RDC63 de 2011** (Req. de Boas Práticas de Func. para os Serv. de Saúde)
+- [X] **RDC63 de 2011** (Req. de Boas Práticas de Func. para os Serv. de Saúde)
 
-[X] **RDC23 de 2012**: Dispõe sobre a obrigatoriedade de execução e notificação de ações de campo por detentores de registro de protudos para saúde no Brasil. Li mas não entendi bulhufas kkk
+- [X] **RDC23 de 2012**: Dispõe sobre a obrigatoriedade de execução e notificação de ações de campo por detentores de registro de protudos para saúde no Brasil. Li mas não entendi bulhufas kkk
 
 
 Acabou a aula.
