@@ -1,6 +1,8 @@
 # Eclin1
 Notas de aulas sobre os slides 11 ao 18 de eclin1.
 
+Caso esteja procurando a lista de normas clique [aqui](/normas).
+
 ## Aula 11
 Segurança no Ambiente Hospitalar - Riscos nos EAS
 
@@ -73,3 +75,12 @@ Continuando sobre riscos
 
 
 Acabou a aula.
+
+## Aula 13
+Segurança no Ambiente Hospitalar - NOTIVISA, Rede Sentinela, Normas
+
+### Riscos nos EAS
+
+A partir do de 2001-2 a Anvisa começou a investir em: *Ações de Vigilância Sanitária de Produtos de Saúde Pós-Uso/Comercialização (Vigipos)*. Como forma de ... retroalimentação dos processos de revalidação de registros...
+
+Estratégia: Constituição e capacitação de uma rede de hospitais sentinela com nome *REDE BRASILEIRA DE HOSPITAIS SENTINELA* (bem criativo).
