@@ -266,3 +266,33 @@ gerenciar riscos associados coma  utilização de produtos para a saúde
 **Esta Norma trata de processos para gerenciar riscos, primariamente para o paciente, mas também para o operador, outras pessoas, outros equipamentos e o ambiente.**
 
 Gerenciamento de risco é um assunto complexo, pois cada parte interessada estabelece valores diferentes para a probabilidade do dano ocorrer e sua severidade.
+
+* Risco
+    * Probabilidade -> chance de ocorrencia
+    * Severidade -> consequencia do dano
+
+Os conceitos de gerenciamento de risco são particularmente importantes em relação aos produtos para a saúde, devido à variedade de partes interessadas, incluindo profissionais da saúde, organizações que prestam serviços de assistência médica, governos, indústrias e o público em geral.
+
+Todas as partes interessadas precisam entender que o uso de um produto para a saúde implica certo grau de risco. A aceitabilidade de um risco por uma parte interessada é infuenciada pelos componentes listados acima e pela percepção que a parte interessada tem do risco.
+
+A decisão de adotar um procedimento clinico utilizando um produto para a saúde requer um balenceamenteo entre os risco residuais e os beneficios previstos do procedimento.
+
+Como uma das partes intressadas, o fabricante realiza julgamentos a respeito da segurança de um produto para a saúde, incluindo a aceitabilidade de riscos, considerando o estado-da-arte geralmente aceitp, para determinar a provável adequação de um produto para a saúde a ser colocado no mercado para a utilização destinada.
+
+*
+Esta Norma específica um processo pelo qual o fabricante de um produto para a saúde possa identificar perigos associados ao produto, estimar e avaliar os riscos associados a tais perigos, controlar esses riscos e monitorar a eficáfia de tal controle.
+*
+
+### ABNT NBR ISO 14971/Escopo
+* Abrangência -> Prods. médicos e para diag in vitro. -> todo o ciclo de vida
+
+* Processo:
+    * Identificar
+    * Estimar
+    * Avaliar
+    * Controlar
+    * Avaliar a eficácia do controle
+
+* Não cabe a norma: Decisão clinica, riscos aceitaveis, requerer que o fab tenha um sis de qual estabelecido. (cabe ao fabricante)
+
+* **DANO**: lesão física ou prejuízo à saúde da pessoa, à propriedade ou ao meio ambiente.
