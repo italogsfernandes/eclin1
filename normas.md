@@ -24,9 +24,12 @@
 - [ ] **Resolução nº 9/03 ANVISA** - Qualidade do Ar. VMR - Valores Maximos recomendados.
 
 ## Aula 16 - Segurança no Ambiente Hospitalar
+
 <s> - [ ] Portaria 3214 de 1978 </s>
 
+
 <s>  - [ ] Portaria nº 485 de 2005  </s>
+
 
  - [ ] **NR 32** - Segurança e saúde no trabalho em EAS. **CAI ATE PAG 17**
  - [ ] **NR 17** - Ergonomia. **CAI ATE PAG 04**
