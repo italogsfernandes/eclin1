@@ -84,3 +84,19 @@ Segurança no Ambiente Hospitalar - NOTIVISA, Rede Sentinela, Normas
 A partir do de 2001-2 a Anvisa começou a investir em: *Ações de Vigilância Sanitária de Produtos de Saúde Pós-Uso/Comercialização (Vigipos)*. Como forma de ... retroalimentação dos processos de revalidação de registros...
 
 Estratégia: Constituição e capacitação de uma rede de hospitais sentinela com nome *REDE BRASILEIRA DE HOSPITAIS SENTINELA* (bem criativo).
+
+#### O que é a rede Sentinela
+
+Composta por hospitais de alta complexidade e/ou de ensino, para atuarem como observatórios ativo do desempenho e segurança de protudos de saúde regularmente usados: medicamentos, kits para exametes laboratoriais, órteses...
+
+* **VIGIPÓS**: vigilância de pós-uso/pós-comercialização.
+Vigilancia de EA e QT dos prod. sob a vigilancia saniátia.
+
+Monitoramento do uso desses produto, bem como a utilização de métodos epidemiológicos para análise.
+
+Adotou-se  uma forma transversal de trabalhar, que permite integração entre as diversas áreas da Anvisa, com o SNVS...
+
+A **VIGIPÓS** deve ser capaz de detectar precocemente problemas relacionados a produtos e outras tecnologias e desencadear as medidas pertinentes para que o risco seja interrompido ou  minimizado.Em outras palavras, quanto todas as atividades pŕevias não são suficientes para eliminar completamente os riscos, o sistema de vigilância deve ser sensível para que os danos porventura existentes sejam os menores possíveis.
+
+
+A **VIGIPÓS** deve produzir informações que permitem retroalimentar os sistemas de controle e orientar os cidações e profissionais de saúde para a prevenção de riscos.
