@@ -189,3 +189,29 @@ Segurança no Ambiente Hospitalar Normas
 - [ ] **RDC 36 de 2013**: Segurança do paciente
 - [ ] **RDC53 de 2013**: Altera a rdc36
 - [ ] **RDC16 de 2013**: Boas praticas para fabricação de prods.
+
+### Riscos nos EAS
+
+NSP (núcleo de segurança d paciente) realiza a notificação dos eventos adversos do Sistema Nacional de Vigilância Sanitária em ate 15 dias da ocorrencia
+EA -> 15 dias
+Morte -> 72 horas.
+
+Exemplos de EA: Queda, infecções, e agravamento por falhas.
+
+Registro por ferramentas eletrônicas.
+
+Prods p/ diagnostico de uso in-vitro: reagentes, calibradores xablaus para determinar algo xablaus de alguma coisa xablaus do corpo human. medidor de algo.
+
+```
+Reagentes, padrões, calibradores, controles, mareiais,
+artigos e instrumentos, junto com as instruções para seu
+uso, que contribuem para realizar uma determinação qualitativa, quantitativa ou semi-quantitativa de uma
+amostra proveniente do corpo humano e que não estejam destinados a cumprir alguma função anatômica,
+física ou terapêutica, que não sejam ingeridos, injetados
+ou inoculados em seres humanos e que são utilizados
+unicamente para prover informação sobre amostras
+obtidas do organismo humano.
+```
+
+## Aula 15
+Infecção Hospitalar
