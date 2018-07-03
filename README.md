@@ -459,4 +459,24 @@ O processo do projeto arquitetônico de uma edificação hospitalar é uma taref
 
  * Redução odo custo de planos Verticais
     * Tijolo -> melhor Qualidade
-    * Revestimento -> meia pared substituição por impermeavel
+    * Revestimento -> meia pared substituição por impermeavel (economia de 60% em impermeaveis)
+
+* reduz custos geralmente reduz qualidade, pouca vezes reduzimos aforma ou tamanho do local geralmente reduzimos a qualidade.
+
+* **Custo x dimensão**: reduzindo de 10x10m para 9x9m 19% da area.
+    * Planos Horizontais (proporcional a redução de superficie). 19% x 26% = 4.9%
+    * Planos Verticais (10% x 34%)
+    * Instalaçõs redução muito pequena.
+    * redução de custo 8.3%
+
+Diminuir a altura nao da muita diminuição de custo
+
+redução de cuso de no maximo 2,3% para uma redução de 10% da altura.
+Já na area a redução de custo em %a menos de area diminui a metade em preço 10% - >5%.
+
+### RDC 050
+RDC050 -> Dispoe sobre o regulamento tecnico para planejamento programação, elaboração e avaliação de projetos fisico de estabelecimentos assistenciais de saudes.
+
+RDC 307 -> Altera a RDC 50.Regulamento tecnico para planejaento, prog, e elaboração de proj fisico para EAS.
+
+RDC 189 -> Li a mesma coisa da outra ue. SNVS
