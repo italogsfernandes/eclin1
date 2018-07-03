@@ -226,3 +226,19 @@ Portaria 930/92 - revoga a 196/83
 
 * **SCIH**: Servições de Controle de Infecção Hospitalar.
     * Execução das ações programadas de contr. d. infec. hosp.
+
+Lei 9431/97
+
+* **PCIH**: Programa de Controle de Infecções Hospitalares.
+    * *conjunto de ações desenvolvidas deliberada e sistematicamente com vistas à redução máxima possível da incidência e da gravidade das infecções hospitalares.*
+    * infec. hosp: infec institucional ou nosocomial, qlqr infec. adquirida apos internação de um paciente em um hospital e que se manifeste durante ou apos. que pode ser relacionada a hospitalização.
+    * deve ter: CCIH - Comissão de Controle de Infecções Hospitalares.
+
+Portaria 2616/98 -> revogou a 930/92
+
+### Importante
+
+* Lavagem das mãos
+* Qualidade do ar -> *pode exercer uma influencia direta e de grande significancia na velocidade de recuperação dos pacientes e na frequência de ocorrência de infecções hospitalares*
+
+* portaria 3523/98 -> Medidas básicas referentes Á manutenção dos sistemas de climatização para garantir a "Qualidade do Ar de Interiores" e prevenção de riscos á saúde dos ocupantes de ambientes climatizados.
