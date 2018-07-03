@@ -296,3 +296,34 @@ Esta Norma específica um processo pelo qual o fabricante de um produto para a s
 * Não cabe a norma: Decisão clinica, riscos aceitaveis, requerer que o fab tenha um sis de qual estabelecido. (cabe ao fabricante)
 
 * **DANO**: lesão física ou prejuízo à saúde da pessoa, à propriedade ou ao meio ambiente.
+
+* **PERIGO**: Fonte potencial de dano.
+
+* **Situação perigosa**: circunstância em que a pessoa, propriedade ou meio ambiente estejam expostos a um ou mais perigos.
+
+* Gerenciamento de riscos: Analisar-> avaliar -> controlar -> avaliar -> relatoro -> informação
+
+![](img/fig3.png)
+
+### Análise de Risco
+
+* Situações perigosas:
+    * Identificadas no uso proposto
+    * Identificadas nos possíveis erros de utilização
+    * Identificadas nas informações de segurança na utilização
+    * Identificadas nos perigos conhecidos e previsiveis
+    * Identificadas na estimativa de riscos ao paciente
+
+* Analise -> avaliação -> controle -> avaliação -> relatorio -> informação
+
+* Identificar e avaliar:
+    * Redução de risco necessaria
+    * Redução de risco não necessária
+
+* **Avaliação de Risco**: Consiste na verificação da necessidade ou não da redução de risco.
+
+* estimativa de risco
+
+* estimativa de probabiidade
+    * dados disponiveis caracterização quantitativa
+    * dados não disponiveis caracteziação qualitativa
