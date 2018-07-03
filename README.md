@@ -402,3 +402,20 @@ Adoção de medidas que sejam apropriadas para a redução de riscos em um nivel
 * **Informaçoes de produção e pos produção**: fabricante deve: estabelecer, documentar e manter.
 
 ## Aula 18
+Projeto, execução e adequação de instalações hospitalares.
+
+O processo do projeto arquitetônico de uma edificação hospitalar é uma tarefa complexa.
+* desde a criação ate a compatibilização e coordenação das decisões dos diferentes projetos que compõem o projeto completo da edificação.
+* atender as necessidadees daqueles que iram ocupar os espaços projetados.
+
+* espaços físicos são distintos para cada especialidade hospitalar.
+
+    *  determinar as dimensões e distribuição de centros cirugicos etc...
+    * flexibilidade.
+    * proj eletrico, hidraulico, ar condicionado etc se destacam.
+
+* Arquitetura hospitalar deve:
+    * Propor soluções projetuais e construtivas.
+    * Desenvolver os projetos nas normas.
+    * Minimizar infecção hospitalar.
+    * buscar harmonia e humanização.
