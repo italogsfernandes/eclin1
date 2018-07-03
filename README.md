@@ -135,10 +135,24 @@ Sistema de Notificação em Vigilância Sanitária
 
 ![](img/fig2.png)
 
-### Exemplos de notificações
+### Exemplos de notificações de EA
 
 * Incidente / evento adverso durante procedimento cirurgico
 * Queda do pacientes
 * Ulcera por pressao (mto tempo deitado)
 * Inefetificada terapeutica de algum medicamento
 * Erros de medicação apenas qnd houver dano a saude (pos exemplo edema provocado por ma administa de injetavel)
+* Evento adverso decorrente do uso de artigo medico hospitalar ou equipamento medido hospitalar.
+* Reação transfusional decorrente de transfução sanguinia.
+* Evento adverso decorrente do uso de um produto cosmetico
+* Evento adverso decorrente do uso de um produto saneante.
+
+### Exemplos de QT
+* Produto (todos listados exceto sangue e compoentes) com suspeita de desvio de Qualidade
+* Produto com suspeita de estar sem registro
+* Suspeita de produto falsificado
+* Suspeita de empresa sem autorização de funcionamento (**AFE**).
+
+### Quem faz as notificações:
+* Profissionais de servicoes de saude (núcleos de segurança do paciente, hospitais, clinicas, hemocentos, laboratorios, CIAT's, dentre outros)
+* Profissionais/técnicos da Anvisam das Vigilâncias Sanitaria Estatuais e municiapais, das secretarias estaduais e minicipais de saude
