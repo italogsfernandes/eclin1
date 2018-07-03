@@ -59,3 +59,12 @@ Investigação de ocorrências como Ferramenta da Qualidade dos serviços de Sa�
 ### Segundo site da ANVISA
 
 * Tecnovigilância <s>é o sistema de vigilância de</s> eventos adversos e queixas técnicas <s>para a saúde na fase de</s>  pós-comercialização, <s>com vistas a recomendar a adoção de medidas que garantam a proteção e a promoção da sáude da população. A tecnovigilância visa a segurança saniátia de protudos para saúde pós-comercialização </s>(Equipamentos, MAteriais, Artigos Médico-Hospitalares, Implantes e Produtos para Diagnóstico de Uso "in-vitro").
+
+## Aula 12
+Continuando sobre riscos
+
+### Normas
+
+* <s>RDC2 de 2010</s> (Geren. de tec. em EAS) - RDC20 de 2012
+* RDC63 de 2011 (Req. de Boas Práticas de Func. para os Serv. de Saúde)
+* RDC23 de 2012: Dispõe sobre a obrigatoriedade de execução e notificação de ações de campo por detentores de registro de protudos para saúde no Brasil. Li mas não entendi bulhufas kkk
